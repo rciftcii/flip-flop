@@ -8,3 +8,5 @@ R2 , R3 : 10k ohm direnç (2 adet)
 C1 , C2: 100u kondansatör (2 adet)
 
 Q1 , Q2: BC547 transistör (2 adet)
+
+J1 : Vidalı Terminal (1 adet)
